@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\LikeLionUnity_1\\LikeLion_basic1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1BFA6BA4-C056-3C0F-84F9-46DACA88B80F}|Assembly-CSharp.csproj|c:\\users\\admin\\desktop\\likelionunity_1\\likelion_basic1\\assets\\scripts\\conditionexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1BFA6BA4-C056-3C0F-84F9-46DACA88B80F}|Assembly-CSharp.csproj|c:\\users\\admin\\desktop\\likelionunity_1\\likelion_basic1\\assets\\scripts\\functionexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFA6BA4-C056-3C0F-84F9-46DACA88B80F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\functionexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFA6BA4-C056-3C0F-84F9-46DACA88B80F}|Assembly-CSharp.csproj|c:\\users\\admin\\desktop\\likelionunity_1\\likelion_basic1\\assets\\scripts\\loopexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFA6BA4-C056-3C0F-84F9-46DACA88B80F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loopexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFA6BA4-C056-3C0F-84F9-46DACA88B80F}|Assembly-CSharp.csproj|C:\\Users\\ADMIN\\Desktop\\LikeLionUnity_1\\LikeLion_basic1\\assets\\scripts\\conditionexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BFA6BA4-C056-3C0F-84F9-46DACA88B80F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\conditionexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BFA6BA4-C056-3C0F-84F9-46DACA88B80F}|Assembly-CSharp.csproj|c:\\users\\admin\\desktop\\likelionunity_1\\likelion_basic1\\assets\\scripts\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1BFA6BA4-C056-3C0F-84F9-46DACA88B80F}|Assembly-CSharp.csproj|C:\\Users\\ADMIN\\Desktop\\LikeLionUnity_1\\LikeLion_basic1\\assets\\scripts\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BFA6BA4-C056-3C0F-84F9-46DACA88B80F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,19 +31,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ConditionExample.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\LikeLionUnity_1\\LikeLion_basic1\\Assets\\scripts\\ConditionExample.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\ConditionExample.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\LikeLionUnity_1\\LikeLion_basic1\\Assets\\scripts\\ConditionExample.cs",
-              "RelativeToolTip": "Assets\\scripts\\ConditionExample.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Title": "FunctionExample.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\LikeLionUnity_1\\LikeLion_basic1\\Assets\\scripts\\FunctionExample.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\FunctionExample.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\LikeLionUnity_1\\LikeLion_basic1\\Assets\\scripts\\FunctionExample.cs",
+              "RelativeToolTip": "Assets\\scripts\\FunctionExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T01:35:29.637Z",
+              "WhenOpened": "2025-03-10T02:20:26.515Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "LoopExample.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\LikeLionUnity_1\\LikeLion_basic1\\Assets\\scripts\\LoopExample.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\LoopExample.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\LikeLionUnity_1\\LikeLion_basic1\\Assets\\scripts\\LoopExample.cs",
+              "RelativeToolTip": "Assets\\scripts\\LoopExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T02:01:52.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConditionExample.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\LikeLionUnity_1\\LikeLion_basic1\\Assets\\scripts\\ConditionExample.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\ConditionExample.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\LikeLionUnity_1\\LikeLion_basic1\\Assets\\scripts\\ConditionExample.cs",
+              "RelativeToolTip": "Assets\\scripts\\ConditionExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABAwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T01:35:29.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "test.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\LikeLionUnity_1\\LikeLion_basic1\\Assets\\scripts\\test.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\test.cs",
@@ -43,8 +76,7 @@
               "RelativeToolTip": "Assets\\scripts\\test.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T01:34:35.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T01:34:35.139Z"
             }
           ]
         }
