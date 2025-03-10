@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\LikeLionUnity_1\\LikeLion_basic1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1BFA6BA4-C056-3C0F-84F9-46DACA88B80F}|Assembly-CSharp.csproj|c:\\users\\admin\\desktop\\likelionunity_1\\likelion_basic1\\assets\\scripts\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFA6BA4-C056-3C0F-84F9-46DACA88B80F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1BFA6BA4-C056-3C0F-84F9-46DACA88B80F}|Assembly-CSharp.csproj|c:\\users\\admin\\desktop\\likelionunity_1\\likelion_basic1\\assets\\scripts\\monobehaviourexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BFA6BA4-C056-3C0F-84F9-46DACA88B80F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\monobehaviourexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,19 +43,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Move.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\LikeLionUnity_1\\LikeLion_basic1\\Assets\\scripts\\Move.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Move.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\LikeLionUnity_1\\LikeLion_basic1\\Assets\\scripts\\Move.cs",
+              "RelativeToolTip": "Assets\\scripts\\Move.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T02:50:07.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MonoBehaviourExample.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\LikeLionUnity_1\\LikeLion_basic1\\Assets\\scripts\\MonoBehaviourExample.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\MonoBehaviourExample.cs",
               "ToolTip": "C:\\Users\\ADMIN\\Desktop\\LikeLionUnity_1\\LikeLion_basic1\\Assets\\scripts\\MonoBehaviourExample.cs",
               "RelativeToolTip": "Assets\\scripts\\MonoBehaviourExample.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T02:39:51.035Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ClassExample.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\LikeLionUnity_1\\LikeLion_basic1\\Assets\\scripts\\ClassExample.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\ClassExample.cs",
@@ -63,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FunctionExample.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\LikeLionUnity_1\\LikeLion_basic1\\Assets\\scripts\\FunctionExample.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\FunctionExample.cs",
@@ -75,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LoopExample.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\LikeLionUnity_1\\LikeLion_basic1\\Assets\\scripts\\LoopExample.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\LoopExample.cs",
@@ -87,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ConditionExample.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\LikeLionUnity_1\\LikeLion_basic1\\Assets\\scripts\\ConditionExample.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\ConditionExample.cs",
@@ -99,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "test.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\LikeLionUnity_1\\LikeLion_basic1\\Assets\\scripts\\test.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\test.cs",
