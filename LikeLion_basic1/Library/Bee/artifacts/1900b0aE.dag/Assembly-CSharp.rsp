@@ -400,9 +400,11 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.40f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.40f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.40f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
+"Assets/scripts/ClassExample.cs"
 "Assets/scripts/ConditionExample.cs"
 "Assets/scripts/FunctionExample.cs"
 "Assets/scripts/LoopExample.cs"
+"Assets/scripts/MonoBehaviourExample.cs"
 "Assets/scripts/test.cs"
 -langversion:9.0
 /deterministic

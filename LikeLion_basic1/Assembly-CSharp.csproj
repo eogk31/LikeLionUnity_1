@@ -63,7 +63,9 @@
   <ItemGroup>
     <Compile Include="Assets\scripts\LoopExample.cs" />
     <Compile Include="Assets\scripts\test.cs" />
+    <Compile Include="Assets\scripts\MonoBehaviourExample.cs" />
     <Compile Include="Assets\scripts\ConditionExample.cs" />
+    <Compile Include="Assets\scripts\ClassExample.cs" />
     <Compile Include="Assets\scripts\FunctionExample.cs" />
   </ItemGroup>
   <ItemGroup>
